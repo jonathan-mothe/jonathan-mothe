@@ -7,7 +7,7 @@
 
 ### What I'm doing :computer:
 
-I am currently looking for greater participation in open data and open source code projects.
+I am currently looking for greater participation in open data and open source projects.
 I have as main objectives in the development area, have contact with people and projects that can aggregate my professional life. Participate in projects that have positive impact on people's lives and acquire knowledge and experience so that I can evolve personally.
 
 

@@ -7,8 +7,8 @@
 
 ### What I'm doing :computer:
 
-I am currently looking for greater participation in open data and open source projects.
-Participate in projects that have positive impact on people's lives and acquire knowledge and experience so that I can evolve personally.
+I'm currently participating in the Focus Foxfooding campaign to test the new version of Firefox Focus. <br>
+I keep my search for personal development and participation in projects that make a difference and bring benefits to people's lives.
 
 
 ### My main skills :rocket:

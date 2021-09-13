@@ -1,4 +1,4 @@
-### Hello, I'm Jonathan! :wave:
+### Hello, I'm Jonathan!
 
 :snake: Treading the path of a pythonist <br> 
 :brazil: Born in Rio de Janeiro, Brazil <br>

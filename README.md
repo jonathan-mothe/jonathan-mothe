@@ -7,8 +7,8 @@
 
 ### What I'm doing :computer:
 
-I'm currently participating in the Focus Foxfooding campaign to test the new version of Firefox Focus. <br>
-I keep my search for personal development and participation in projects that make a difference and bring benefits to people's lives.
+I made some public contributions to open source projects. The most recent was the Focus Foxfooding campaign to test the new version of Firefox Focus.
+I really like the open source initiative with the aim of making a difference and bringing benefits to people's lives.
 
 
 ### My main skills :rocket:

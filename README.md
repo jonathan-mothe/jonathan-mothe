@@ -7,5 +7,6 @@
 
 ### What I'm doing :computer:
 
-I made some public contributions to open source projects. The most recent was the Focus Foxfooding campaign to test the new version of Firefox Focus.
-I really like the open source initiative with the aim of making a difference and bringing benefits to people's lives.
+I have made some public contributions to open source projects. The most recent were the Focus Foxfooding campaign to test the new version of Firefox Focus and [Common Voice](https://commonvoice.mozilla.org/). I really like the open source initiative with the aim of making a difference and bringing benefits to people's lives.
+
+
